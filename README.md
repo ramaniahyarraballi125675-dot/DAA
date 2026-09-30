@@ -1,2 +1,9 @@
 # DAA
-practicals
+practical-1
+practical-2
+practical-3
+practical-4
+practical-5
+practical-6
+practical-7
+practical-8
